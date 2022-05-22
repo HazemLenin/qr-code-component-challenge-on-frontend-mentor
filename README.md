@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshots/qr-code-component.png)
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-component-chellange-solution-3d81AEGoGo)
+- Solution URL: [Github](https://github.com/HazemLenin/interactive-rating-component-challenge-on-frontend-mentor)
 - Live Site URL: [Github Pages](https://hazemlenin.github.io/qr-code-component-challenge-on-frontend-mentor/)
 
 ## My process
@@ -31,5 +31,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://HazemLenin.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Hazem Lenin](https://HazemLenin.github.io)
+- Frontend Mentor - [@HazemLenin](https://www.frontendmentor.io/profile/yourusername)
